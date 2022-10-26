@@ -20,8 +20,8 @@
 [[./2022/2022_Rd19_United-States-Grand-Prix_Qualifying_race_control_message.csv][QF:Race Control Message CSV]]
 [[./2022/2022_Rd19_United-States-Grand-Prix_Race.pdf][RACE PDF]]
 [[./2022/2022_Rd19_United-States-Grand-Prix_Race_race_control_message.csv][RACE:Race Control Message CSV]]
+[[./2022/2022_Rd19_United-States-Grand-Prix_Race_gaptime.csv][RACE:gaptime CSV]]
 [[./2022/2022_Rd19_United-States-Grand-Prix_Race_ALO_L22_vs_ALO_L14.pdf][RACE ALO L14 vs L22]]
-
 ** Rd18 Japanese Grand Prix
 
 [[./2022/2022_Rd18_Japanese-Grand-Prix_Practice-1.pdf][FP1 PDF]]
@@ -30,7 +30,7 @@
 [[./2022/2022_Rd18_Japanese-Grand-Prix_Qualifying.pdf][QF PDF]]
 [[./2022/2022_Rd18_Japanese-Grand-Prix_Race_sectortime.pdf][RACE PDF]]
 [[./2022/2022_Rd18_Japanese-Grand-Prix_Race_race_control_message.csv][RACE:Race Control Message CSV]]
-
+[[./2022/2022_Rd18_Japanese-Grand-Prix_Race_gaptime.csv][RACE:gaptime CSV]]
 ** Rd17 Singapore Grand Prix
 
 [[./2022/2022_Rd17_Singapore-Grand-Prix_Practice-3.pdf][FP3 PDF]]
