@@ -11,6 +11,13 @@
 
 * 2022 season
 
+
+** Rd20 Mexico City Grand Prix
+[[./2022/2022_Rd20_Mexico-City-Grand-Prix_Practice-1.pdf][FP1 PDF]]
+[[./2022/2022_Rd20_Mexico-City-Grand-Prix_Practice-1_race_control_message.csv][FP1:Race Control Message CSV]]
+[[./2022/2022_Rd20_Mexico-City-Grand-Prix_Practice-2.pdf][FP2 PDF]]
+[[./2022/2022_Rd20_Mexico-City-Grand-Prix_Practice-2_race_control_message.csv][FP2:Race Control Message CSV]]
+
 ** Rd19 United States Grand Prix
 
 [[./2022/2022_Rd19_United-States-Grand-Prix_Practice-1.pdf][FP1 PDF]]
