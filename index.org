@@ -21,7 +21,9 @@
 [[./2022/2022_Rd20_Mexico-City-Grand-Prix_Practice-3_race_control_message.csv][FP3:Race Control Message CSV]]
 [[./2022/2022_Rd20_Mexico-City-Grand-Prix_Qualifying.pdf][QF PDF]]
 [[./2022/2022_Rd20_Mexico-City-Grand-Prix_Qualifying_race_control_message.csv][QF:Race Control Message CSV]]
-
+[[./2022/2022_Rd20_Mexico-City-Grand-Prix_Race.pdf][Race PDF]]
+[[./2022/2022_Rd20_Mexico-City-Grand-Prix_Race_race_control_message.csv][Race:Race Control Message CSV]]
+[[./2022/2022_Rd20_Mexico-City-Grand-Prix_Race_gaptime.csv][Race: Gap To Leader CSV]]
 ** Rd19 United States Grand Prix
 
 [[./2022/2022_Rd19_United-States-Grand-Prix_Practice-1.pdf][FP1 PDF]]
