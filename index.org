@@ -11,6 +11,11 @@
 
 * 2022 season
 
+** Rd21 Sao Paulo Grand Prix
+[[./2022/2022_Rd21_Sao-Paulo-Grand-Prix_Practice-1.pdf][FP1 PDF]]
+[[./2022/2022_Rd21_Sao-Paulo-Grand-Prix_Practice-1_race_control_message.csv][FP1:Race Control Message CSV]]
+[[./2022/2022_Rd21_Sao-Paulo-Grand-Prix_Qualifying.pdf][QF PDF]]
+[[./2022/2022_Rd21_Sao-Paulo-Grand-Prix_Qualifying_race_control_message.csv][QF:Race Control Message CSV]]
 
 ** Rd20 Mexico City Grand Prix
 [[./2022/2022_Rd20_Mexico-City-Grand-Prix_Practice-1.pdf][FP1 PDF]]
