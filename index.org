@@ -16,6 +16,8 @@
 [[./2022/2022_Rd22_Abu-Dhabi-Grand-Prix_Practice-1_race_control_message.csv][FP1:Race Control Message CSV]]
 [[./2022/2022_Rd22_Abu-Dhabi-Grand-Prix_Practice-2.pdf][FP2 PDF]]
 [[./2022/2022_Rd22_Abu-Dhabi-Grand-Prix_Practice-2_race_control_message.csv][FP2:Race Control Message CSV]]
+[[./2022/2022_Rd22_Abu-Dhabi-Grand-Prix_Practice-3.pdf][FP3 PDF]]
+[[./2022/2022_Rd22_Abu-Dhabi-Grand-Prix_Practice-3_race_control_message.csv][FP3:Race Control Message CSV]]
 
 ** Rd21 Sao Paulo Grand Prix
 [[./2022/2022_Rd21_Sao-Paulo-Grand-Prix_Practice-1.pdf][FP1 PDF]]
