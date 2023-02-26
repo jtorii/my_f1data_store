@@ -28,6 +28,12 @@
 [[./2023/2023_Rd00_Pre-season-test-Day2-ALO_vs_DEV_vs_HUL.pdf][Day2:ALO_vs_DEV_vs_HUL PDF]]
 [[./2023/2023_Rd00_Pre-season-test-Day2-VER_SAI_RUS_delta.pdf][Day2:VER_SAI_RUS w/ delta]]
 
+[[./2023/2023_Rd00_Pre-Season-Testing_Practice-3.pdf][Day3 pdf]]
+[[./2023/2023_Rd00_Pre-Season-Testing_Practice-3_laptime.csv][Day3 All Laptime CSV]]
+[[./2023/2023_Rd00_Pre-Season-Testing_Practice-3_race_control_message.csv][Day3 Race Control Message CSV]]
+[[./2023/2023_Rd00_Pre-season-test-Day3-PER_HAM_LEC_delta.pdf][Day3:PER vs HAM vs LEC w/ delta]]
+[[./2023/2023_Rd00_Pre-season-test-Day3-TSU_MAG_ALO_delta.pdf][Day3:TSU vs MAG vs ALO w/ delta]]
+
 * 2022 season
 
 ** Rd22 Abu Dhabi Grand Prix
