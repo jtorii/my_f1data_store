@@ -11,6 +11,13 @@
 
 * 2023 season
 
+
+** Rd01 Bahrain Grand Prix
+
+[[./2023/2023_Rd01_Bahrain-Grand-Prix_Practice-1.pdf][FP1:Plots PDF]]
+[[./2023/2023_Rd01_Bahrain-Grand-Prix_Practice-1_race_control_message.csv][FP1:Race Control Message CSV]]
+[[./2023/2023_Rd01_Bahrain-Grand-Prix_Practice-1_laptime.csv][FP1:All Laptime CSV]]
+
 ** Pre-Season Test Week1
 [[./2023/2023_Rd00_Pre-Season-Testing_Practice-1.pdf][Day1 PDF]]
 [[./2023/2023_Rd00_Pre-Season-Testing_Practice-1_laptime.csv][Day1 All Laptime CSV]]
