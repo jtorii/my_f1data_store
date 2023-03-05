@@ -26,6 +26,9 @@
 [[./2023/2023_Rd01_Bahrain-Grand-Prix_Practice-3_race_control_message.csv][FP3:Race Control Message CSV]]
 [[./2023/2023_Rd01_Bahrain-Grand-Prix_Practice-3_laptime.csv][FP3:All Laptime CSV]]
 
+[[./2023/2023_Rd01_Bahrain-Grand-Prix_Qualifying.pdf][QF:Plots PDF]]
+[[./2023/2023_Rd01_Bahrain-Grand-Prix_Qualifying_race_control_message.csv][QF:Race Control Message CSV]]
+
 ** Pre-Season Test Week1
 [[./2023/2023_Rd00_Pre-Season-Testing_Practice-1.pdf][Day1 PDF]]
 [[./2023/2023_Rd00_Pre-Season-Testing_Practice-1_laptime.csv][Day1 All Laptime CSV]]
