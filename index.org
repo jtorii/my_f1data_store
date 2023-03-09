@@ -34,6 +34,9 @@
 [[./2023/2023_Rd01_Bahrain-Grand-Prix_Race_race_control_message.csv][R:Race Control Message CSV]]
 [[./2023/2023_Rd01_Bahrain-Grand-Prix_Race_laptime.csv][R:All Laptime CSV]]
 
+[[./2023/2023_Rd01_Bahrain-Grand-Prix_Race_gaptime.pdf][R: gaptime PDF]]
+[[./2023/2023_Rd01_Bahrain-Grand-Prix_Race_gaptime.csv][R: gaptime CSV]]
+
 ** Pre-Season Test Week1
 [[./2023/2023_Rd00_Pre-Season-Testing_Practice-1.pdf][Day1 PDF]]
 [[./2023/2023_Rd00_Pre-Season-Testing_Practice-1_laptime.csv][Day1 All Laptime CSV]]
