@@ -16,6 +16,10 @@
 [[./2023/2023_Rd02_Saudi-Arabian-Grand-Prix_Practice-1_race_control_message.csv][FP1:Race Control Message CSV]]
 [[./2023/2023_Rd02_Saudi-Arabian-Grand-Prix_Practice-1_laptime.csv][FP1:All Laptime CSV]]
 
+[[./2023/2023_Rd02_Saudi-Arabian-Grand-Prix_Practice-2.pdf][FP2:Plots PDF]]
+[[./2023/2023_Rd02_Saudi-Arabian-Grand-Prix_Practice-2_laptime.csv][FP2:All Laptime CSV]]
+[[./2023/2023_Rd02_Saudi-Arabian-Grand-Prix_Practice-2_race_control_message.csv][FP2:Race Control Message CSV]]
+
 ** Rd01 Bahrain Grand Prix
 
 [[./2023/2023_Rd01_Bahrain-Grand-Prix_Practice-1.pdf][FP1:Plots PDF]]
