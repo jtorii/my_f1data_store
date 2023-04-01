@@ -24,6 +24,10 @@
 [[./2023/2023_Rd03_Australian-Grand-Prix_Practice-3.pdf][FP3:Plots PDF]]
 [[./2023/2023_Rd03_Australian-Grand-Prix_Practice-3_race_control_message.csv][FP3:Race Control Message CSV]]
 [[./2023/2023_Rd03_Australian-Grand-Prix_Practice-3_laptime.csv][FP3:All Laptime CSV]]
+
+[[./2023/2023_Rd03_Australian-Grand-Prix_Qualifying.pdf][QF:Plots PDF]]
+[[./2023/2023_Rd03_Australian-Grand-Prix_Qualifying_race_control_message.csv][QF:Race Control Message CSV]]
+
 ** Rd02 Saudi Arabian Grand Prix
 [[./2023/2023_Rd02_Saudi-Arabian-Grand-Prix_Practice-1.pdf][FP1:Plots PDF]]
 [[./2023/2023_Rd02_Saudi-Arabian-Grand-Prix_Practice-1_race_control_message.csv][FP1:Race Control Message CSV]]
