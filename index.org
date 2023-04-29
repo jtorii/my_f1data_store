@@ -20,6 +20,11 @@
 [[./2023/2023-Rd04-Azerbaijan-Grand-Prix-Qualifying_rcm.csv][QF:Race Control Message CSV]]
 [[./2023/2023-Rd04-Azerbaijan-Grand-Prix-Qualifying_laptime.csv][QF:All Laptime CSV]]
 
+[[./2023/2023-Rd04-Azerbaijan-Grand-Prix-Sprint.pdf][Sprint:Plots PDF]]
+[[./2023/2023-Rd04-Azerbaijan-Grand-Prix-Sprint_rcm.csv][Sprint:Race Control Message CSV]]
+[[./2023/2023-Rd04-Azerbaijan-Grand-Prix-Sprint_laptime.csv][Sprint:All Laptime CSV]]
+[[./2023/2023-Rd04-Azerbaijan-Grand-Prix-Sprint_gaptime.csv][Sprint:Gaptime CSV]]
+
 ** Rd03 Australian Grand Prix
 [[./2023/2023_Rd03_Australian-Grand-Prix_Practice-1.pdf][FP1:Plots PDF]]
 [[./2023/2023_Rd03_Australian-Grand-Prix_Practice-1_race_control_message.csv][FP1:Race Control Message CSV]]
