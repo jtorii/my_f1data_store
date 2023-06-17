@@ -11,6 +11,13 @@
 
 * 2023 season
 
+** Rd08 Canadian Grand Prix
+[[./2023/2023-Rd08-Canadian-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
+
+[[./2023/2023-Rd08-Canadian-Grand-Prix-Practice-2.pdf][FP2:Plots PDF]]
+[[./2023/2023-Rd08-Canadian-Grand-Prix-Practice-2_rcm.csv][FP2:Race Control Message CSV]]
+[[./2023/2023-Rd08-Canadian-Grand-Prix-Practice-2_laptime.csv][FP2:All Laptime CSV]]
+
 ** Rd07 Spanish Grand Prix
 [[./2023/2023-Rd07-Spanish-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
 [[./2023/2023-Rd07-Spanish-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
