@@ -16,6 +16,9 @@
 [[./2023/2023-Rd09-Austrian-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
 [[./2023/2023-Rd09-Austrian-Grand-Prix-Practice-1_laptime.csv][FP1:All Laptime CSV]]
 
+[[./2023/2023-Rd09-Austrian-Grand-Prix-Qualifying.pdf][QF:Plots PDF]]
+[[./2023/2023-Rd09-Austrian-Grand-Prix-Qualifying_rcm.csv][QF:Race Control Message CSV]]
+[[./2023/2023-Rd09-Austrian-Grand-Prix-Qualifying_laptime.csv][QF:All Laptime CSV]]
 ** Rd08 Canadian Grand Prix
 [[./2023/2023-Rd08-Canadian-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
 
