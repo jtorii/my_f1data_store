@@ -21,6 +21,10 @@
 [[./2023/2023-Rd10-British-Grand-Prix-Practice-2_rcm.csv][FP2:Race Control Message CSV]]
 [[./2023/2023-Rd10-British-Grand-Prix-Practice-2_laptime.csv][FP2:All Laptime CSV]]
 
+[[./2023/2023-Rd10-British-Grand-Prix-Practice-3.pdf][FP3:Plots PDF]]
+[[./2023/2023-Rd10-British-Grand-Prix-Practice-3_rcm.csv][FP3:Race Control Message CSV]]
+[[./2023/2023-Rd10-British-Grand-Prix-Practice-3_laptime.csv][FP3:All Laptime CSV]]
+
 ** Rd09 Austrian Grand Prix
 [[./2023/2023-Rd09-Austrian-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
 [[./2023/2023-Rd09-Austrian-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
