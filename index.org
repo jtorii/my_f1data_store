@@ -25,6 +25,11 @@
 [[./2023/2023-Rd11-Hungarian-Grand-Prix-Qualifying_rcm.csv][QF:Race Control Message CSV]]
 [[./2023/2023-Rd11-Hungarian-Grand-Prix-Qualifying_laptime.csv][QF:All Laptime CSV]]
 
+[[./2023/2023-Rd11-Hungarian-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2023/2023-Rd11-Hungarian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2023/2023-Rd11-Hungarian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2023/2023-Rd11-Hungarian-Grand-Prix-Race_rcm.csv][R: Race Control Message CSV]]
+
 ** Rd10 British Grand Prix
 [[./2023/2023-Rd10-British-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
 [[./2023/2023-Rd10-British-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
