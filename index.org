@@ -31,6 +31,11 @@
 [[./2023/2023-Rd12-Belgian-Grand-Prix-Sprint_gaptime.csv][S:GapTime CSV ]]
 [[./2023/2023-Rd12-Belgian-Grand-Prix-Sprint_rcm.csv][S: Race Control Message CSV]]
 
+[[./2023/2023-Rd12-Belgian-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2023/2023-Rd12-Belgian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2023/2023-Rd12-Belgian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2023/2023-Rd12-Belgian-Grand-Prix-Race_rcm.csv][R: Race Control Message CSV]]
+
 ** Rd11 Hungarian Grand Prix
 [[./2023/2023-Rd11-Hungarian-Grand-Prix-Practice-2.pdf][FP2:Plots PDF]]
 [[./2023/2023-Rd11-Hungarian-Grand-Prix-Practice-2_rcm.csv][FP2:Race Control Message CSV]]
