@@ -29,6 +29,11 @@
 [[./2023/2023-Rd13-Dutch-Grand-Prix-Qualifying_rcm.csv][QF:Race Control Message CSV]]
 [[./2023/2023-Rd13-Dutch-Grand-Prix-Qualifying_laptime.csv][QF:All Laptime CSV]]
 
+[[./2023/2023-Rd13-Dutch-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2023/2023-Rd13-Dutch-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2023/2023-Rd13-Dutch-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2023/2023-Rd13-Dutch-Grand-Prix-Race_rcm.csv][R: Race Control Message CSV]]
+
 ** Rd12 Belgian Grand Prix
 
 [[./2023/2023-Rd12-Belgian-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
