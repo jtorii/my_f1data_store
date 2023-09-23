@@ -21,6 +21,10 @@
 [[./2023/2023-Rd16-Japanese-Grand-Prix-Practice-2_rcm.csv][FP2:Race Control Message CSV]]
 [[./2023/2023-Rd16-Japanese-Grand-Prix-Practice-2_laptime.csv][FP2:All Laptime CSV]]
 
+[[./2023/2023-Rd16-Japanese-Grand-Prix-Practice-3.pdf][FP3:Plots PDF]]
+[[./2023/2023-Rd16-Japanese-Grand-Prix-Practice-3_rcm.csv][FP3:Race Control Message CSV]]
+[[./2023/2023-Rd16-Japanese-Grand-Prix-Practice-3_laptime.csv][FP3:All Laptime CSV]]
+
 ** Rd15 Singapore Grand Prix
 
 [[./2023/2023-Rd15-Singapore-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
