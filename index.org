@@ -16,6 +16,10 @@
 [[./2023/2023-Rd17-Qatar-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
 [[./2023/2023-Rd17-Qatar-Grand-Prix-Practice-1_laptime.csv][FP1:All Laptime CSV]]
 
+[[./2023/2023-Rd17-Qatar-Grand-Prix-Qualifying.pdf][QF:Plots PDF]]
+[[./2023/2023-Rd17-Qatar-Grand-Prix-Qualifying_rcm.csv][QF:Race Control Message CSV]]
+[[./2023/2023-Rd17-Qatar-Grand-Prix-Qualifying_laptime.csv][QF:All Laptime CSV]]
+
 ** Rd16 Japanese Grand Prix
 
 [[./2023/2023-Rd16-Japanese-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
