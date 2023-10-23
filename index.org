@@ -33,6 +33,11 @@
 [[./2023/2023-Rd18-United-States-Grand-Prix-Sprint_gaptime.csv][S:GapTime CSV ]]
 [[./2023/2023-Rd18-United-States-Grand-Prix-Sprint_rcm.csv][S:Race Control Message CSV]]
 
+[[./2023/2023-Rd18-United-States-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2023/2023-Rd18-United-States-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2023/2023-Rd18-United-States-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2023/2023-Rd18-United-States-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+
 ** Rd17 Qatar Grand Prix
 [[./2023/2023-Rd17-Qatar-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
 [[./2023/2023-Rd17-Qatar-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
