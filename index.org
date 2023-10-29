@@ -31,6 +31,8 @@
 [[./2023/2023-Rd19-Mexico-City-Grand-Prix-Qualifying_rcm.csv][QF:Race Control Message CSV]]
 [[./2023/2023-Rd19-Mexico-City-Grand-Prix-Qualifying_laptime.csv][QF:All Laptime CSV]]
 
+[[./2023/2023-Rd19-Mexico-City-Grand-Prix_Telemetry_overlay.pdf][Telemetry Overlay]]
+
 ** Rd18 United States Grand Prix
 
 [[./2023/2023-Rd18-United-States-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
