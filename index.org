@@ -33,6 +33,11 @@
 
 [[./2023/2023-Rd19-Mexico-City-Grand-Prix_Telemetry_overlay.pdf][Telemetry Overlay]]
 
+[[./2023/2023-Rd19-Mexico-City-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2023/2023-Rd19-Mexico-City-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2023/2023-Rd19-Mexico-City-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2023/2023-Rd19-Mexico-City-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+
 ** Rd18 United States Grand Prix
 
 [[./2023/2023-Rd18-United-States-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
