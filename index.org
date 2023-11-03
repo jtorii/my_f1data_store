@@ -12,6 +12,11 @@
 * 2023 season
 
 
+** Rd20 Sao Paulo Grand Prix
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Practice-1_laptime.csv][FP1:All Laptime CSV]]
+
 ** Rd19 Mexico City Grand Prix
 
 [[./2023/2023-Rd19-Mexico-City-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
