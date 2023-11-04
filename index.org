@@ -17,6 +17,9 @@
 [[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Practice-1_rcm.csv][FP1:Race Control Message CSV]]
 [[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Practice-1_laptime.csv][FP1:All Laptime CSV]]
 
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Qualifying.pdf][QF:Plots PDF]]
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Qualifying_rcm.csv][QF:Race Control Message CSV]]
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Qualifying_laptime.csv][QF:All Laptime CSV]]
 ** Rd19 Mexico City Grand Prix
 
 [[./2023/2023-Rd19-Mexico-City-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
