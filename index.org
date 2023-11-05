@@ -25,6 +25,11 @@
 [[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Sprint-Shootout_rcm.csv][SS:Race Control Message CSV]]
 [[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Sprint-Shootout_laptime.csv][SS:All Laptime CSV]]
 
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Sprint.pdf][S:Plots PDF]]
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Sprint_laptime.csv][S:ALL LapTime CSV]]
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Sprint_gaptime.csv][S:GapTime CSV ]]
+[[./2023/2023-Rd20-Sao-Paulo-Grand-Prix-Sprint_rcm.csv][S:Race Control Message CSV]]
+
 ** Rd19 Mexico City Grand Prix
 
 [[./2023/2023-Rd19-Mexico-City-Grand-Prix-Practice-1.pdf][FP1:Plots PDF]]
