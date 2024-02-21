@@ -9,6 +9,12 @@
 #+PANDOC_OPTIONS: toc-depth:3
 #+PANDOC_OPTIONS: number-sections:t
 
+* 2024 season
+
+** Pre-season test
+[[./2024/2024-Pre-Season-Testing-1-1.pdf][Day1: Plot PDF]]
+[[./2024/2024-Pre-Season-Testing-1-1_laptime.csv][Day1: laptime csv]]
+[[./2024/2024-Pre-Season-Testing-1-1_rcm.csv][Day1: race control message csv]]
 * 2023 season
 
 
