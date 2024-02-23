@@ -19,6 +19,11 @@
 [[./2024/2024-Pre-Season-Testing-1-2.pdf][Day2: Plot PDF]]
 [[./2024/2024-Pre-Season-Testing-1-2_laptime.csv][Day2: laptime csv]]
 [[./2024/2024-Pre-Season-Testing-1-2_rcm.csv][Day2: race control message csv]]
+
+[[./2024/2024-Pre-Season-Testing-1-3.pdf][Day3: Plot PDF]]
+[[./2024/2024-Pre-Season-Testing-1-3_laptime.csv][Day3: laptime csv]]
+[[./2024/2024-Pre-Season-Testing-1-3_rcm.csv][Day2: race contro3 message csv]]
+
 * 2023 season
 
 
