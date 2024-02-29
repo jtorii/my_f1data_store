@@ -11,6 +11,12 @@
 
 * 2024 season
 
+** Rd01 Bahrain Grand Prix
+
+[[./2024/2024-Rd01-Bahrain-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2024/2024-Rd01-Bahrain-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2024/2024-Rd01-Bahrain-Grand-Prix-Practice-1_rcm.csv][Day1: race FP1 message csv]]
+
 ** Pre-season test
 [[./2024/2024-Pre-Season-Testing-1-1.pdf][Day1: Plot PDF]]
 [[./2024/2024-Pre-Season-Testing-1-1_laptime.csv][Day1: laptime csv]]
