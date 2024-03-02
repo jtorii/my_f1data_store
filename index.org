@@ -25,6 +25,10 @@
 [[./2024/2024-Rd01-Bahrain-Grand-Prix-Practice-3_laptime.csv][FP3: laptime csv]]
 [[./2024/2024-Rd01-Bahrain-Grand-Prix-Practice-3_rcm.csv][FP3: race control message csv]]
 
+[[./2024/2024-Rd01-Bahrain-Grand-Prix-Qualifying.pdf][QF: Plot PDF]]
+[[./2024/2024-Rd01-Bahrain-Grand-Prix-Qualifying_laptime.csv][QF: laptime csv]]
+[[./2024/2024-Rd01-Bahrain-Grand-Prix-Qualifying_rcm.csv][FP3: race QFtrol message csv]]
+
 ** Pre-season test
 [[./2024/2024-Pre-Season-Testing-1-1.pdf][Day1: Plot PDF]]
 [[./2024/2024-Pre-Season-Testing-1-1_laptime.csv][Day1: laptime csv]]
