@@ -354,3 +354,8 @@ pre.code {
     font-family: "Source Code Variable", monospace;
     font-size: 11px;
 }
+
+details > details,
+details > div {
+  padding-left: 16px;
+}
