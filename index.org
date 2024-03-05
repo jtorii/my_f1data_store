@@ -4,7 +4,7 @@
 #+startup: nohideblocks
 #+OPTIONS: \n:t
 #+OPTIONS: ^:{}
-#+PANDOC_OPTIONS: css:./my-org-export.css
+#+PANDOC_OPTIONS: css:./style.css
 #+PANDOC_OPTIONS: toc:t
 #+PANDOC_OPTIONS: toc-depth:3
 #+PANDOC_OPTIONS: number-sections:t
