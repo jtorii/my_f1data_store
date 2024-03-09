@@ -25,6 +25,10 @@
 [[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Practice-3_laptime.csv][FP3: laptime csv]]
 [[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Practice-3_rcm.csv][FP3: race control message csv]]
 
+[[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Qualifying.pdf][QF: Plot PDF]]
+[[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Qualifying_laptime.csv][QF: laptime csv]]
+[[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Qualifying_rcm.csv][QF: race control message csv]]
+
 ** Rd01 Bahrain Grand Prix
 
 [[./2024/2024-Rd01-Bahrain-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
