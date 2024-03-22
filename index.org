@@ -11,6 +11,12 @@
 
 * 2024 season
 
+** Rd03 Australian Grand Prix
+
+[[./2024/2024-Rd03-Australian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2024/2024-Rd03-Australian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2024/2024-Rd03-Australian-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
 ** Rd02 Saudi Arabian Grand Prix
 
 [[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
