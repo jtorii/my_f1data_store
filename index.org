@@ -25,6 +25,10 @@
 [[./2024/2024-Rd04-Japanese-Grand-Prix-Practice-3_laptime.csv][FP3: laptime csv]]
 [[./2024/2024-Rd04-Japanese-Grand-Prix-Practice-3_rcm.csv][FP3: race control message csv]]
 
+[[./2024/2024-Rd04-Japanese-Grand-Prix-Qualifying.pdf][QF: Plot PDF]]
+[[./2024/2024-Rd04-Japanese-Grand-Prix-Qualifying_laptime.csv][QF: laptime csv]]
+[[./2024/2024-Rd04-Japanese-Grand-Prix-Qualifying_rcm.csv][QF: race control message csv]]
+
 ** Rd03 Australian Grand Prix
 
 [[./2024/2024-Rd03-Australian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
