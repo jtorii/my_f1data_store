@@ -11,6 +11,13 @@
 
 * 2024 season
 
+
+** Rd05 Chinese Grand Prix
+
+[[./2024/2024-Rd05-Chinese-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2024/2024-Rd05-Chinese-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2024/2024-Rd05-Chinese-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
 ** Rd04 Japanese Grand Prix
 
 [[./2024/2024-Rd04-Japanese-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
