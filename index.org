@@ -11,6 +11,14 @@
 
 * 2024 season
 
+** Rd06 Miami Grand Prix
+[[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
+[[./2024/2024-Rd06-Miami-Grand-Prix-Sprint-Qualifying.pdf][SQ: Plot PDF]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ: laptime csv]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ: race control message csv]]
 
 ** Rd05 Chinese Grand Prix
 
