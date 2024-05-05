@@ -20,6 +20,15 @@
 [[./2024/2024-Rd06-Miami-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ: laptime csv]]
 [[./2024/2024-Rd06-Miami-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ: race control message csv]]
 
+[[./2024/2024-Rd06-Miami-Grand-Prix-Sprint.pdf][S:Plots PDF]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Sprint_gaptime.csv][S:GapTime CSV ]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Sprint_laptime.csv][S:ALL LapTime CSV]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Sprint_rcm.csv][S:Race Control Message CSV]]
+
+[[./2024/2024-Rd06-Miami-Grand-Prix-Qualifying.pdf][Q: Plot PDF]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
+[[./2024/2024-Rd06-Miami-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
+
 ** Rd05 Chinese Grand Prix
 
 [[./2024/2024-Rd05-Chinese-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
