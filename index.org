@@ -11,6 +11,12 @@
 
 * 2024 season
 
+
+** Rd07 Emilia Romagna Grand Prix
+[[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
 ** Rd06 Miami Grand Prix
 [[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
