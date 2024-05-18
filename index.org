@@ -25,6 +25,10 @@
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-3_laptime.csv][FP3: laptime csv]]
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-3_rcm.csv][FP3: race control message csv]]
 
+[[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Qualifying.pdf][Q: Plot PDF]]
+[[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
+[[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
+
 ** Rd06 Miami Grand Prix
 [[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
