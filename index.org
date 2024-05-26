@@ -29,6 +29,11 @@
 [[./2024/2024-Rd08-Monaco-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2024/2024-Rd08-Monaco-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2024/2024-Rd08-Monaco-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2024/2024-Rd08-Monaco-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2024/2024-Rd08-Monaco-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2024/2024-Rd08-Monaco-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+
 ** Rd07 Emilia Romagna Grand Prix
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
