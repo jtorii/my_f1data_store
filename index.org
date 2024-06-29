@@ -22,6 +22,11 @@
 [[./2024/2024-Rd11-Austrian-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ: laptime csv]]
 [[./2024/2024-Rd11-Austrian-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ: race control message csv]]
 
+[[./2024/2024-Rd11-Austrian-Grand-Prix-Sprint.pdf][S:Plots PDF]]
+[[./2024/2024-Rd11-Austrian-Grand-Prix-Sprint_gaptime.csv][S:GapTime CSV ]]
+[[./2024/2024-Rd11-Austrian-Grand-Prix-Sprint_laptime.csv][S:ALL LapTime CSV]]
+[[./2024/2024-Rd11-Austrian-Grand-Prix-Sprint_rcm.csv][S:Race Control Message CSV]]
+
 ** Rd10 Spanish Grand Prix
 
 [[./2024/2024-Rd10-Spanish-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
