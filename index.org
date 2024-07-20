@@ -25,6 +25,10 @@
 [[./2024/2024-Rd13-Hungarian-Grand-Prix-Practice-3_laptime.csv][FP3: laptime csv]]
 [[./2024/2024-Rd13-Hungarian-Grand-Prix-Practice-3_rcm.csv][FP3: race control message csv]]
 
+[[./2024/2024-Rd13-Hungarian-Grand-Prix-Qualifying.pdf][Q: Plot PDF]]
+[[./2024/2024-Rd13-Hungarian-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
+[[./2024/2024-Rd13-Hungarian-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
+
 ** Rd12 British Grand Prix
 
 [[./2024/2024-Rd12-British-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
