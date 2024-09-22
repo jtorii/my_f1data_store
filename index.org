@@ -29,6 +29,11 @@
 [[./2024/2024-Rd18-Singapore-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2024/2024-Rd18-Singapore-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2024/2024-Rd18-Singapore-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2024/2024-Rd18-Singapore-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2024/2024-Rd18-Singapore-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2024/2024-Rd18-Singapore-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+
 ** Rd17 Azerbaijan Grand Prix
 
 [[./2024/2024-Rd17-Azerbaijan-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
