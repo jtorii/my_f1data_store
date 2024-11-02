@@ -17,6 +17,10 @@
 [[./2024/2024-Rd21-São-Paulo-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2024/2024-Rd21-São-Paulo-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
 
+[[./2024/2024-Rd21-São-Paulo-Grand-Prix-Sprint-Qualifying.pdf][SQ: Plot PDF]]
+[[./2024/2024-Rd21-São-Paulo-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ: laptime csv]]
+[[./2024/2024-Rd21-São-Paulo-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ: race control message csv]]
+
 ** Rd20 Mexico City Grand Prix
 [[./2024/2024-Rd20-Mexico-City-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd20-Mexico-City-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
