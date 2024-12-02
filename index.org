@@ -30,6 +30,11 @@
 [[./2024/2024-Rd23-Qatar-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2024/2024-Rd23-Qatar-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2024/2024-Rd23-Qatar-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2024/2024-Rd23-Qatar-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2024/2024-Rd23-Qatar-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2024/2024-Rd23-Qatar-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+
 ** Rd22 Las Vegas Grand Prix
 [[./2024/2024-Rd22-Las-Vegas-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd22-Las-Vegas-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
