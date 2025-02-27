@@ -9,6 +9,14 @@
 #+PANDOC_OPTIONS: toc-depth:3
 #+PANDOC_OPTIONS: number-sections:t
 
+* 2025 Season
+
+** Pre-season test
+
+[[./2025/2025-Pre-Season-Testing-1-1.pdf][Day1:Plot PDF]]
+[[./2025/2025-Pre-Season-Testing-1-1_laptime.csv][Day1:laptime csv]]
+[[./2025/2025-Pre-Season-Testing-1-1_rcm.csv][Day1:race control message csv]]
+
 * 2024 season
 
 ** Rd24 Abu Dhabi Grand Prix
