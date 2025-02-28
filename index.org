@@ -17,6 +17,10 @@
 [[./2025/2025-Pre-Season-Testing-1-1_laptime.csv][Day1:laptime csv]]
 [[./2025/2025-Pre-Season-Testing-1-1_rcm.csv][Day1:race control message csv]]
 
+[[./2025/2025-Pre-Season-Testing-1-2.pdf][Day2:Plot PDF]]
+[[./2025/2025-Pre-Season-Testing-1-2_laptime.csv][Day2:laptime csv]]
+[[./2025/2025-Pre-Season-Testing-1-2_rcm.csv][Day2:race control message csv]]
+
 * 2024 season
 
 ** Rd24 Abu Dhabi Grand Prix
