@@ -11,6 +11,11 @@
 
 * 2025 Season
 
+** Rd01 Australian Grand Prix
+[[./2025/2025-Rd01-Australian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2025/2025-Rd01-Australian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2025/2025-Rd01-Australian-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
 ** Pre-season test
 
 [[./2025/2025-Pre-Season-Testing-1-1.pdf][Day1:Plot PDF]]
