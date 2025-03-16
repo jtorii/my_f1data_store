@@ -28,6 +28,11 @@
 [[./2025/2025-Rd01-Australian-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2025/2025-Rd01-Australian-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2025/2025-Rd01-Australian-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2025/2025-Rd01-Australian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2025/2025-Rd01-Australian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2025/2025-Rd01-Australian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+
 ** Pre-season test
 
 [[./2025/2025-Pre-Season-Testing-1-1.pdf][Day1:Plot PDF]]
