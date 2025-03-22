@@ -25,6 +25,10 @@
 [[./2025/2025-Rd02-Chinese-Grand-Prix-Sprint_laptime.csv][S:ALL LapTime CSV]]
 [[./2025/2025-Rd02-Chinese-Grand-Prix-Sprint_rcm.csv][S:Race Control Message CSV]]
 
+[[./2025/2025-Rd02-Chinese-Grand-Prix-Qualifying.pdf][Q: Plot PDF]]
+[[./2025/2025-Rd02-Chinese-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
+[[./2025/2025-Rd02-Chinese-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
+
 ** Rd01 Australian Grand Prix
 [[./2025/2025-Rd01-Australian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd01-Australian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
