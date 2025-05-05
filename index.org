@@ -30,6 +30,11 @@
 [[./2025/2025-Rd06-Miami-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2025/2025-Rd06-Miami-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2025/2025-Rd06-Miami-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2025/2025-Rd06-Miami-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2025/2025-Rd06-Miami-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2025/2025-Rd06-Miami-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+
 ** Rd05 Saudi Arabian Grand Prix
 
 [[./2025/2025-Rd05-Saudi-Arabian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
