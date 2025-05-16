@@ -11,6 +11,12 @@
 
 * 2025 Season
 
+** Rd07 Emilia Romagna Grand Prix
+
+[[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
 ** Rd06 Miami Grand Prix
 
 [[./2025/2025-Rd06-Miami-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
