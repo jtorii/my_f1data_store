@@ -21,6 +21,10 @@
 [[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-2_laptime.csv][FP2: laptime csv]]
 [[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-2_rcm.csv][FP2: race control message csv]]
 
+[[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-3.pdf][FP3: Plot PDF]]
+[[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-3_laptime.csv][FP3: laptime csv]]
+[[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-3_rcm.csv][FP3: race control message csv]]
+
 ** Rd06 Miami Grand Prix
 
 [[./2025/2025-Rd06-Miami-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
