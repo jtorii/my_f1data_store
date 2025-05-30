@@ -11,6 +11,13 @@
 
 * 2025 Season
 
+
+** Rd09 Spanish Grand Prix
+
+[[./2025/2025-Rd09-Spanish-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2025/2025-Rd09-Spanish-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2025/2025-Rd09-Spanish-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
 ** Rd08 Monaco Grand Prix
 
 [[./2025/2025-Rd08-Monaco-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
