@@ -30,6 +30,11 @@
 [[./2025/2025-Rd10-Canadian-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2025/2025-Rd10-Canadian-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2025/2025-Rd10-Canadian-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2025/2025-Rd10-Canadian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2025/2025-Rd10-Canadian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2025/2025-Rd10-Canadian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+
 ** Rd09 Spanish Grand Prix
 
 [[./2025/2025-Rd09-Spanish-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
