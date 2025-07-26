@@ -18,6 +18,10 @@
 [[./2025/2025-Rd13-Belgian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd13-Belgian-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
 
+[[./2025/2025-Rd13-Belgian-Grand-Prix-Sprint-Qualifying.pdf][SQ: Plot PDF]]
+[[./2025/2025-Rd13-Belgian-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ: laptime csv]]
+[[./2025/2025-Rd13-Belgian-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ: race control message csv]]
+
 ** Rd12 British Grand Prix
 
 [[./2025/2025-Rd12-British-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
