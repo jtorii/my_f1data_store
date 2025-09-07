@@ -30,6 +30,12 @@
 [[./2025/2025-Rd16-Italian-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2025/2025-Rd16-Italian-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2025/2025-Rd16-Italian-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2025/2025-Rd16-Italian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2025/2025-Rd16-Italian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2025/2025-Rd16-Italian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+[[https://youtu.be/tK2MeL8c098?si=GErzJTL2uP7xuD2B][GAP Graph animation]]
+
 ** Rd15 Dutch Grand Prix
 
 [[./2025/2025-Rd15-Dutch-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
