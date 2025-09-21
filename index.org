@@ -29,6 +29,12 @@
 [[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+[[https://youtu.be/1LDKJ6FpTyo][GAP Graph animation]]
+
 ** Rd16 Italian Grand Prix
 
 [[./2025/2025-Rd16-Italian-Grand-Prix-Practice-1_incomplete.pdf][FP1: Plot PDF]]
