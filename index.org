@@ -28,6 +28,12 @@
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+[[./2025/2025-Rd20-Mexico-City-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2025/2025-Rd20-Mexico-City-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2025/2025-Rd20-Mexico-City-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2025/2025-Rd20-Mexico-City-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+[[https://youtu.be/RN9j9jR0XGo][GAP Graph animation]]
+
 ** Rd19 United States Grand Prix
 [[./2025/2025-Rd19-United-States-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd19-United-States-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
