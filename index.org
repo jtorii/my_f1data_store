@@ -11,6 +11,15 @@
 
 * 2025 Season
 
+** Rd21 Sao Paulo Grand Prix
+[[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
+[[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Sprint-Qualifying.pdf][SQ: Plot PDF]]
+[[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ: laptime csv]]
+[[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ: race control message csv]]
+
 ** Rd20 Mexico City Grand Prix
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
