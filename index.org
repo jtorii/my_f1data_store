@@ -16,6 +16,10 @@
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
 
+[[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-2.pdf][FP2: Plot PDF]]
+[[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-2_laptime.csv][FP2: laptime csv]]
+[[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-2_rcm.csv][FP2: race control message csv]]
+
 ** Rd21 Sao Paulo Grand Prix
 [[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
