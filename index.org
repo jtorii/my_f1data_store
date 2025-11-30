@@ -27,6 +27,10 @@
 [[./2025/2025-Rd23-Qatar-Grand-Prix-Sprint_rcm.csv][S:Race Control Message CSV]]
 [[https://youtu.be/FXwe_Qn5XwA][SPRINT GAP Graph animation]]
 
+[[./2025/2025-Rd23-Qatar-Grand-Prix-Qualifying.pdf][Q: Plot PDF]]
+[[./2025/2025-Rd23-Qatar-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
+[[./2025/2025-Rd23-Qatar-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
+
 ** Rd22 Las Vegas Grand Prix
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
