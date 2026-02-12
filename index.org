@@ -9,9 +9,17 @@
 #+PANDOC_OPTIONS: toc-depth:3
 #+PANDOC_OPTIONS: number-sections:t
 
+* 2026 Season
+
+** Pre-season test
+*** Week1 Day1
+
+[[./2026/2026-Pre-Season-Testing-1-1.pdf][Plot PDF]]
+[[./2026/2026-Pre-Season-Testing-1-1_laptime.csv][Laptime CSV]]
+[[./2026/2026-Pre-Season-Testing-1-1_rcm.csv][RaceControl Message CSV]]
+
 * 2025 Season
 
-[[./2025/TARONOTE_2025.csv][エグいてー]]
 ** Rd24 Abu Dhabi Grand Prix
 [[./2025/2025-Rd24-Abu-Dhabi-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd24-Abu-Dhabi-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
