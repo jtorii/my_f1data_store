@@ -42,6 +42,12 @@
 [[./2026/2026-Pre-Season-Testing-2-2_laptime.csv][Laptime CSV]]
 [[./2026/2026-Pre-Season-Testing-2-2_rcm.csv][RaceControl Message CSV]]
 
+*** Week2 Day3
+
+[[./2026/2026-Pre-Season-Testing-2-3.pdf][Plot PDF]]
+[[./2026/2026-Pre-Season-Testing-2-3_laptime.csv][Laptime CSV]]
+[[./2026/2026-Pre-Season-Testing-2-3_rcm.csv][RaceControl Message CSV]]
+
 * 2025 Season
 
 ** Rd24 Abu Dhabi Grand Prix
