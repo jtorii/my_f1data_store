@@ -11,6 +11,13 @@
 
 * 2026 Season
 
+** Rd01 Australian Grand Prix
+*** 2026 Rd01 AUS FP1
+
+[[./2026/2026-Rd01-Australian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
+[[./2026/2026-Rd01-Australian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
+[[./2026/2026-Rd01-Australian-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
+
 ** Pre-season test
 *** Week1 Day1
 
