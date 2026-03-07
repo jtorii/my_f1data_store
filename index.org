@@ -24,6 +24,12 @@
 [[./2026/2026-Rd01-Australian-Grand-Prix-Practice-2_laptime.csv][FP2: laptime csv]]
 [[./2026/2026-Rd01-Australian-Grand-Prix-Practice-2_rcm.csv][FP2: race control message csv]]
 
+*** 2026 Rd01 AUS FP3
+
+[[./2026/2026-Rd01-Australian-Grand-Prix-Practice-3.pdf][FP3: Plot PDF]]
+[[./2026/2026-Rd01-Australian-Grand-Prix-Practice-3_laptime.csv][FP3: laptime csv]]
+[[./2026/2026-Rd01-Australian-Grand-Prix-Practice-3_rcm.csv][FP3: race control message csv]]
+
 ** Pre-season test
 *** Week1 Day1
 
