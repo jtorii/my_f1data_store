@@ -36,6 +36,14 @@
 [[./2026/2026-Rd01-Australian-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2026/2026-Rd01-Australian-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
 
+*** 2026 Rd01 AUS Race
+
+[[./2026/2026-Rd01-Australian-Grand-Prix-Race.pdf][R:Plots PDF]]
+[[./2026/2026-Rd01-Australian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
+[[./2026/2026-Rd01-Australian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
+[[./2026/2026-Rd01-Australian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+[[https://youtu.be/Bu8om1cTYkY][GAP Graph animation]]
+
 ** Pre-season test
 *** Week1 Day1
 
