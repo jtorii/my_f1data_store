@@ -11,10 +11,15 @@
 
 * 2026 Season
 ** Rd02 Chinese Grand Prix
-*** 2026 Rd01 CHN FP1
-[[./2026/2026-Rd02-Chinese-Grand-Prix-Practice-1.pdf][FP1プロット]]
-[[./2026/2026-Rd02-Chinese-Grand-Prix-Practice-1_laptime.csv][FP1ラップタイムCSV]]
-[[./2026/2026-Rd02-Chinese-Grand-Prix-Practice-1_rcm.csv][FP1レースコントロールメッセージ]]
+*** 2026 Rd02 CHN FP1
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Practice-1.pdf][FP1:プロット]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Practice-1_laptime.csv][FP1:ラップタイムCSV]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Practice-1_rcm.csv][FP1:レースコントロールメッセージ]]
+
+*** 2026 Rd02 CHN SQ
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint-Qualifying.pdf][スプリント予選:プロット]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint-Qualifying_laptime.csv][スプリント予選:ラップタイムCSV]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint-Qualifying_rcm.csv][スプリント予選:レースコントロールメッセージ]]
 
 ** Rd01 Australian Grand Prix
 *** 2026 Rd01 AUS FP1
