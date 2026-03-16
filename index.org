@@ -28,6 +28,11 @@
 [[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint_rcm.csv][スプリント:レースコントロールメッセージ]]
 [[https://youtu.be/RZGNuJENF84][ギャップグラフアニメーション(Youtube)]]
 
+*** 2026 Rd02 CHN QF
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Qualifying.pdf][予選:プロット]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Qualifying_laptime.csv][予選:ラップタイムCSV]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Qualifying_rcm.csv][予選:レースコントロールメッセージ]]
+
 ** Rd01 Australian Grand Prix
 *** 2026 Rd01 AUS FP1
 
