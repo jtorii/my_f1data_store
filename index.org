@@ -91,9 +91,12 @@
 [[./2026/2026-Pre-Season-Testing-2-3_laptime.csv][Laptime CSV]]
 [[./2026/2026-Pre-Season-Testing-2-3_rcm.csv][RaceControl Message CSV]]
 
-* 2025 Season
+* Previous season
 
-** Rd24 Abu Dhabi Grand Prix
+** 2025 Season
+
+#+HTML: <details>
+#+HTML: <summary>Rd24 Abu Dhabi Grand Prix</summary>
 [[./2025/2025-Rd24-Abu-Dhabi-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd24-Abu-Dhabi-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd24-Abu-Dhabi-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -115,8 +118,10 @@
 [[./2025/2025-Rd24-Abu-Dhabi-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd24-Abu-Dhabi-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/qk6KcAhUpfI][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd23 Qatar Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd23 Qatar Grand Prix</summary>
 
 [[./2025/2025-Rd23-Qatar-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd23-Qatar-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -141,8 +146,10 @@
 [[./2025/2025-Rd23-Qatar-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd23-Qatar-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/JFpQSlofGtI][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd22 Las Vegas Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd22 Las Vegas Grand Prix</summary>
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -164,8 +171,10 @@
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd22-Las-Vegas-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/WdznIVSlc3g][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd21 Sao Paulo Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd21 Sao Paulo Grand Prix</summary>
 [[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -189,8 +198,10 @@
 [[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd21-Sao-Paulo-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/WdznIVSlc3g?si=BgVK6ifnvmc_W2X7][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd20 Mexico City Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd20 Mexico City Grand Prix</summary>
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -212,8 +223,10 @@
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd20-Mexico-City-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/RN9j9jR0XGo][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd19 United States Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd19 United States Grand Prix</summary>
 [[./2025/2025-Rd19-United-States-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd19-United-States-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd19-United-States-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -237,8 +250,10 @@
 [[./2025/2025-Rd19-United-States-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd19-United-States-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/U-_qTNeCgGg][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd18 Singapore Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd18 Singapore Grand Prix</summary>
 [[./2025/2025-Rd18-Singapore-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd18-Singapore-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd18-Singapore-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -260,8 +275,10 @@
 [[./2025/2025-Rd18-Singapore-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd18-Singapore-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/4-B7-cVV5Ww][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd17 Azerbaijan Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd17 Azerbaijan Grand Prix</summary>
 [[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -283,8 +300,10 @@
 [[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd17-Azerbaijan-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/1LDKJ6FpTyo][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd16 Italian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd16 Italian Grand Prix</summary>
 
 [[./2025/2025-Rd16-Italian-Grand-Prix-Practice-1_incomplete.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd16-Italian-Grand-Prix-Practice-1_incomplete_laptime.csv][FP1: laptime csv]]
@@ -307,8 +326,10 @@
 [[./2025/2025-Rd16-Italian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd16-Italian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
 [[https://youtu.be/tK2MeL8c098?si=GErzJTL2uP7xuD2B][GAP Graph animation]]
+#+HTML: </details>
 
-** Rd15 Dutch Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd15 Dutch Grand Prix</summary>
 
 [[./2025/2025-Rd15-Dutch-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd15-Dutch-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -330,8 +351,10 @@
 [[./2025/2025-Rd15-Dutch-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd15-Dutch-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd15-Dutch-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd14 Hungarian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd14 Hungarian Grand Prix</summary>
 
 [[./2025/2025-Rd14-Hungarian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd14-Hungarian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -353,8 +376,10 @@
 [[./2025/2025-Rd14-Hungarian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd14-Hungarian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd14-Hungarian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd13 Belgian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd13 Belgian Grand Prix</summary>
 
 [[./2025/2025-Rd13-Belgian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd13-Belgian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -377,8 +402,10 @@
 [[./2025/2025-Rd13-Belgian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd13-Belgian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd13-Belgian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd12 British Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd12 British Grand Prix</summary>
 
 [[./2025/2025-Rd12-British-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd12-British-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -400,8 +427,10 @@
 [[./2025/2025-Rd12-British-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd12-British-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd12-British-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd11 Austrian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd11 Austrian Grand Prix</summary>
 
 [[./2025/2025-Rd11-Austrian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd11-Austrian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -423,8 +452,10 @@
 [[./2025/2025-Rd11-Austrian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd11-Austrian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd11-Austrian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd10 Canadian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd10 Canadian Grand Prix</summary>
 
 [[./2025/2025-Rd10-Canadian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd10-Canadian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -446,8 +477,10 @@
 [[./2025/2025-Rd10-Canadian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd10-Canadian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd10-Canadian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd09 Spanish Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd09 Spanish Grand Prix</summary>
 
 [[./2025/2025-Rd09-Spanish-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd09-Spanish-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -469,8 +502,10 @@
 [[./2025/2025-Rd09-Spanish-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd09-Spanish-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd09-Spanish-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd08 Monaco Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd08 Monaco Grand Prix</summary>
 
 [[./2025/2025-Rd08-Monaco-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd08-Monaco-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -492,8 +527,10 @@
 [[./2025/2025-Rd08-Monaco-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd08-Monaco-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd08-Monaco-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd07 Emilia Romagna Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd07 Emilia Romagna Grand Prix</summary>
 
 [[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -515,8 +552,10 @@
 [[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd07-Emilia-Romagna-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd06 Miami Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd06 Miami Grand Prix</summary>
 
 [[./2025/2025-Rd06-Miami-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd06-Miami-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -539,8 +578,10 @@
 [[./2025/2025-Rd06-Miami-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd06-Miami-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd06-Miami-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd05 Saudi Arabian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd05 Saudi Arabian Grand Prix</summary>
 
 [[./2025/2025-Rd05-Saudi-Arabian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd05-Saudi-Arabian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -562,8 +603,10 @@
 [[./2025/2025-Rd05-Saudi-Arabian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd05-Saudi-Arabian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd05-Saudi-Arabian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd04 Bahrain Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd04 Bahrain Grand Prix</summary>
 
 [[./2025/2025-Rd04-Bahrain-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd04-Bahrain-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -580,8 +623,10 @@
 [[./2025/2025-Rd04-Bahrain-Grand-Prix-Qualifying.pdf][Q: Plot PDF]]
 [[./2025/2025-Rd04-Bahrain-Grand-Prix-Qualifying_laptime.csv][Q: laptime csv]]
 [[./2025/2025-Rd04-Bahrain-Grand-Prix-Qualifying_rcm.csv][Q: race control message csv]]
+#+HTML: </details>
 
-** Rd03 Japanese Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd03 Japanese Grand Prix</summary>
 
 [[./2025/2025-Rd03-Japanese-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd03-Japanese-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -603,8 +648,10 @@
 [[./2025/2025-Rd03-Japanese-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd03-Japanese-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd03-Japanese-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd02 Chinese Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd02 Chinese Grand Prix</summary>
 [[./2025/2025-Rd02-Chinese-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd02-Chinese-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd02-Chinese-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -626,8 +673,10 @@
 [[./2025/2025-Rd02-Chinese-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd02-Chinese-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd02-Chinese-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd01 Australian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd01 Australian Grand Prix</summary>
 [[./2025/2025-Rd01-Australian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2025/2025-Rd01-Australian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2025/2025-Rd01-Australian-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -648,8 +697,10 @@
 [[./2025/2025-Rd01-Australian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2025/2025-Rd01-Australian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2025/2025-Rd01-Australian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Pre-season test
+#+HTML: <details>
+#+HTML: <summary>Pre-season test</summary>
 
 [[./2025/2025-Pre-Season-Testing-1-1.pdf][Day1:Plot PDF]]
 [[./2025/2025-Pre-Season-Testing-1-1_laptime.csv][Day1:laptime csv]]
@@ -662,10 +713,12 @@
 [[./2025/2025-Pre-Season-Testing-1-3.pdf][Day3:Plot PDF]]
 [[./2025/2025-Pre-Season-Testing-1-3_laptime.csv][Day3:laptime csv]]
 [[./2025/2025-Pre-Season-Testing-1-3_rcm.csv][Day3:race control message csv]]
+#+HTML: </details>
 
-* 2024 season
+** 2024 season
 
-** Rd24 Abu Dhabi Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd24 Abu Dhabi Grand Prix</summary>
 [[./2024/2024-Rd24-Abu-Dhabi-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd24-Abu-Dhabi-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2024/2024-Rd24-Abu-Dhabi-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -686,8 +739,10 @@
 [[./2024/2024-Rd24-Abu-Dhabi-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd24-Abu-Dhabi-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd24-Abu-Dhabi-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd23 Qatar Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd23 Qatar Grand Prix</summary>
 
 [[./2024/2024-Rd23-Qatar-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd23-Qatar-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -710,8 +765,10 @@
 [[./2024/2024-Rd23-Qatar-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd23-Qatar-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd23-Qatar-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd22 Las Vegas Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd22 Las Vegas Grand Prix</summary>
 [[./2024/2024-Rd22-Las-Vegas-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd22-Las-Vegas-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2024/2024-Rd22-Las-Vegas-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -732,8 +789,10 @@
 [[./2024/2024-Rd22-Las-Vegas-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd22-Las-Vegas-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd22-Las-Vegas-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd21 Sao Paulo Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd21 Sao Paulo Grand Prix</summary>
 
 [[./2024/2024-Rd21-São-Paulo-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd21-São-Paulo-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -756,8 +815,10 @@
 [[./2024/2024-Rd21-São-Paulo-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd21-São-Paulo-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd21-São-Paulo-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd20 Mexico City Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd20 Mexico City Grand Prix</summary>
 [[./2024/2024-Rd20-Mexico-City-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd20-Mexico-City-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2024/2024-Rd20-Mexico-City-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -778,8 +839,10 @@
 [[./2024/2024-Rd20-Mexico-City-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd20-Mexico-City-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd20-Mexico-City-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd19 United State Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd19 United State Grand Prix</summary>
 
 [[./2024/2024-Rd19-United-States-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd19-United-States-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -802,8 +865,10 @@
 [[./2024/2024-Rd19-United-States-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd19-United-States-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd19-United-States-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd18 Singapore Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd18 Singapore Grand Prix</summary>
 
 [[./2024/2024-Rd18-Singapore-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd18-Singapore-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -825,8 +890,10 @@
 [[./2024/2024-Rd18-Singapore-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd18-Singapore-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd18-Singapore-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd17 Azerbaijan Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd17 Azerbaijan Grand Prix</summary>
 
 [[./2024/2024-Rd17-Azerbaijan-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd17-Azerbaijan-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -848,8 +915,10 @@
 [[./2024/2024-Rd17-Azerbaijan-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd17-Azerbaijan-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd17-Azerbaijan-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd16 Italian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd16 Italian Grand Prix</summary>
 
 [[./2024/2024-Rd16-Italian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd16-Italian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -871,8 +940,10 @@
 [[./2024/2024-Rd16-Italian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd16-Italian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd16-Italian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd15 Dutch Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd15 Dutch Grand Prix</summary>
 
 [[./2024/2024-Rd15-Dutch-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd15-Dutch-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -894,8 +965,10 @@
 [[./2024/2024-Rd15-Dutch-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd15-Dutch-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd15-Dutch-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd14 Belgian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd14 Belgian Grand Prix</summary>
 
 [[./2024/2024-Rd14-Belgian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd14-Belgian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -917,8 +990,10 @@
 [[./2024/2024-Rd14-Belgian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd14-Belgian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd14-Belgian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd13 Hungarian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd13 Hungarian Grand Prix</summary>
 
 [[./2024/2024-Rd13-Hungarian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd13-Hungarian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -940,8 +1015,10 @@
 [[./2024/2024-Rd13-Hungarian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd13-Hungarian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd13-Hungarian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd12 British Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd12 British Grand Prix</summary>
 
 [[./2024/2024-Rd12-British-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd12-British-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -963,8 +1040,10 @@
 [[./2024/2024-Rd12-British-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd12-British-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd12-British-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd11 Austrian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd11 Austrian Grand Prix</summary>
 
 [[./2024/2024-Rd11-Austrian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd11-Austrian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -987,8 +1066,10 @@
 [[./2024/2024-Rd11-Austrian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd11-Austrian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd11-Austrian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd10 Spanish Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd10 Spanish Grand Prix</summary>
 
 [[./2024/2024-Rd10-Spanish-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd10-Spanish-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -1010,8 +1091,10 @@
 [[./2024/2024-Rd10-Spanish-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd10-Spanish-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd10-Spanish-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd09 Canadian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd09 Canadian Grand Prix</summary>
 
 [[./2024/2024-Rd09-Canadian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd09-Canadian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -1033,8 +1116,10 @@
 [[./2024/2024-Rd09-Canadian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd09-Canadian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd09-Canadian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd08 Monaco Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd08 Monaco Grand Prix</summary>
 [[./2024/2024-Rd08-Monaco-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd08-Monaco-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2024/2024-Rd08-Monaco-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -1055,8 +1140,10 @@
 [[./2024/2024-Rd08-Monaco-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd08-Monaco-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd08-Monaco-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd07 Emilia Romagna Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd07 Emilia Romagna Grand Prix</summary>
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -1077,8 +1164,10 @@
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd07-Emilia-Romagna-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd06 Miami Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd06 Miami Grand Prix</summary>
 [[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
 [[./2024/2024-Rd06-Miami-Grand-Prix-Practice-1_rcm.csv][FP1: race control message csv]]
@@ -1100,8 +1189,10 @@
 [[./2024/2024-Rd06-Miami-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd06-Miami-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd06-Miami-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd05 Chinese Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd05 Chinese Grand Prix</summary>
 
 [[./2024/2024-Rd05-Chinese-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd05-Chinese-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -1124,8 +1215,10 @@
 [[./2024/2024-Rd05-Chinese-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd05-Chinese-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd05-Chinese-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd04 Japanese Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd04 Japanese Grand Prix</summary>
 
 [[./2024/2024-Rd04-Japanese-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd04-Japanese-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -1147,8 +1240,10 @@
 [[./2024/2024-Rd04-Japanese-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd04-Japanese-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd04-Japanese-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd03 Australian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd03 Australian Grand Prix</summary>
 
 [[./2024/2024-Rd03-Australian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd03-Australian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -1170,8 +1265,10 @@
 [[./2024/2024-Rd03-Australian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd03-Australian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd03-Australian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd02 Saudi Arabian Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd02 Saudi Arabian Grand Prix</summary>
 
 [[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -1193,8 +1290,10 @@
 [[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd02-Saudi-Arabian-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Rd01 Bahrain Grand Prix
+#+HTML: <details>
+#+HTML: <summary>Rd01 Bahrain Grand Prix</summary>
 
 [[./2024/2024-Rd01-Bahrain-Grand-Prix-Practice-1.pdf][FP1: Plot PDF]]
 [[./2024/2024-Rd01-Bahrain-Grand-Prix-Practice-1_laptime.csv][FP1: laptime csv]]
@@ -1216,8 +1315,10 @@
 [[./2024/2024-Rd01-Bahrain-Grand-Prix-Race_gaptime.csv][R:GapTime CSV ]]
 [[./2024/2024-Rd01-Bahrain-Grand-Prix-Race_laptime.csv][R:ALL LapTime CSV]]
 [[./2024/2024-Rd01-Bahrain-Grand-Prix-Race_rcm.csv][R:Race Control Message CSV]]
+#+HTML: </details>
 
-** Pre-season test
+#+HTML: <details>
+#+HTML: <summary>Pre-season test</summary>
 [[./2024/2024-Pre-Season-Testing-1-1.pdf][Day1: Plot PDF]]
 [[./2024/2024-Pre-Season-Testing-1-1_laptime.csv][Day1: laptime csv]]
 [[./2024/2024-Pre-Season-Testing-1-1_rcm.csv][Day1: race control message csv]]
@@ -1230,10 +1331,9 @@
 [[./2024/2024-Pre-Season-Testing-1-3_laptime.csv][Day3: laptime csv]]
 [[./2024/2024-Pre-Season-Testing-1-3_rcm.csv][Day2: race contro3 message csv]]
 
-* Previous season
+#+HTML: </details>
 
-#+HTML: <details>
-#+HTML: <summary>2023</summary>
+** 2023 season
 
 #+HTML: <details>
 #+HTML: <summary>Rd22 Abu Dhabi Grand Prix</summary>
@@ -1780,12 +1880,7 @@
 [[./2023/2023_Rd00_Pre-season-test-Day3-TSU_MAG_ALO_delta.pdf][Day3:TSU vs MAG vs ALO w/ delta]]
 #+HTML: </details>
 
-
-
-#+HTML: </details>
-
-#+HTML: <details>
-#+HTML: <summary>2022</summary>
+** 2022 season
 
 #+HTML: <details>
 #+HTML: <summary>Rd22 Abu Dhabi Grand Prix</summary>
@@ -1862,6 +1957,4 @@
 [[./2022/2022_Rd17_Singapore-Grand-Prix_Practice-3.pdf][FP3 PDF]]
 [[./2022/2022_Rd17_Singapore-Grand-Prix_Qualifying.pdf][QF PDF]]
 [[./2022/2022_Rd17_Singapore-Grand-Prix_Race_sectortime.pdf][RACE PDF]]
-#+HTML: </details>
-
 #+HTML: </details>
