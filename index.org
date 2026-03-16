@@ -21,6 +21,13 @@
 [[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint-Qualifying_laptime.csv][スプリント予選:ラップタイムCSV]]
 [[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint-Qualifying_rcm.csv][スプリント予選:レースコントロールメッセージ]]
 
+*** 2026 Rd02 CHN Sprint
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint.pdf][スプリント:プロット]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint_gaptime.csv][スプリント:ギャップタイムCSV]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint_laptime.csv][スプリント:ラップタイムCSV]]
+[[./2026/2026-Rd02-Chinese-Grand-Prix-Sprint_rcm.csv][スプリント:レースコントロールメッセージ]]
+[[https://youtu.be/RZGNuJENF84][ギャップグラフアニメーション(Youtube)]]
+
 ** Rd01 Australian Grand Prix
 *** 2026 Rd01 AUS FP1
 
