@@ -10,6 +10,19 @@
 #+PANDOC_OPTIONS: number-sections:t
 
 * 2026 Season
+** Rd03 Japanese Grand Prix
+** 2026 Rd03 JPN FP1
+
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Practice-1.pdf][FP1:プロット]]
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Practice-1_laptime.csv][FP1:ラップタイムCSV]]
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Practice-1_rcm.csv][FP1:レースコントロールメッセージ]]
+
+** 2026 Rd03 JPN FP2
+
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Practice-2.pdf][FP2:プロット]]
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Practice-2_laptime.csv][FP2:ラップタイムCSV]]
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Practice-2_rcm.csv][FP2:レースコントロールメッセージ]]
+
 ** Rd02 Chinese Grand Prix
 *** 2026 Rd02 CHN FP1
 [[./2026/2026-Rd02-Chinese-Grand-Prix-Practice-1.pdf][FP1:プロット]]
