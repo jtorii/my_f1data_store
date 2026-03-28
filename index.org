@@ -29,6 +29,12 @@
 [[./2026/2026-Rd03-Japanese-Grand-Prix-Practice-3_laptime.csv][FP3:ラップタイムCSV]]
 [[./2026/2026-Rd03-Japanese-Grand-Prix-Practice-3_rcm.csv][FP3:レースコントロールメッセージ]]
 
+*** 2026 Rd03 JPN QF
+
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Qualifying.pdf][予選:プロット]]
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Qualifying_laptime.csv][予選:ラップタイムCSV]]
+[[./2026/2026-Rd03-Japanese-Grand-Prix-Qualifying_rcm.csv][予選:レースコントロールメッセージ]]
+
 ** Rd02 Chinese Grand Prix
 *** 2026 Rd02 CHN FP1
 [[./2026/2026-Rd02-Chinese-Grand-Prix-Practice-1.pdf][FP1:プロット]]
