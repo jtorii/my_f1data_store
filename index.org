@@ -18,7 +18,7 @@
 [[./2026/2026-Rd04-Miami-Grand-Prix-Practice-1_laptime.csv][FP1:ラップタイムCSV]]
 [[./2026/2026-Rd04-Miami-Grand-Prix-Practice-1_rcm.csv][FP1:レースコントロールメッセージ]]
 
-*** 2026 Rd04 MIA スプリント予選
+*** 2026 Rd04 MIA SQ
 [[./2026/2026-Rd04-Miami-Grand-Prix-Sprint-Qualifying.pdf][SQ:プロット]]
 [[./2026/2026-Rd04-Miami-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ:ラップタイムCSV]]
 [[./2026/2026-Rd04-Miami-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ:レースコントロールメッセージ]]
