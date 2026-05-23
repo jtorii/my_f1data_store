@@ -11,6 +11,17 @@
 
 * 2026 Season
 
+** Rd05 Canadian Grand Prix
+*** 2026 Rd05 CAN FP1
+[[./2026/2026-Rd05-Canadian-Grand-Prix-Practice-1.pdf][FP1:プロット]]
+[[./2026/2026-Rd05-Canadian-Grand-Prix-Practice-1_laptime.csv][FP1:ラップタイムCSV]]
+[[./2026/2026-Rd05-Canadian-Grand-Prix-Practice-1_rcm.csv][FP1:レースコントロールメッセージ]]
+
+*** 2026 Rd06 CAN SQ
+[[./2026/2026-Rd05-Canadian-Grand-Prix-Sprint-Qualifying.pdf][SQ:プロット]]
+[[./2026/2026-Rd05-Canadian-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ:ラップタイムCSV]]
+[[./2026/2026-Rd05-Canadian-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ:レースコントロールメッセージ]]
+
 ** Rd04 Miami Grand Prix
 
 *** 2026 Rd04 MIA FP1
