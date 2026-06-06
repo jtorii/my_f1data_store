@@ -19,6 +19,12 @@
 [[./2026/2026-Rd06-Monaco-Grand-Prix-Practice-1_laptime.csv][FP1:ラップタイムCSV]]
 [[./2026/2026-Rd06-Monaco-Grand-Prix-Practice-1_rcm.csv][FP1:レースコントロールメッセージ]]
 
+*** 2026 Rd06 MCO FP2
+
+[[./2026/2026-Rd06-Monaco-Grand-Prix-Practice-2.pdf][FP2:プロット]]
+[[./2026/2026-Rd06-Monaco-Grand-Prix-Practice-2_laptime.csv][FP2:ラップタイムCSV]]
+[[./2026/2026-Rd06-Monaco-Grand-Prix-Practice-2_rcm.csv][FP2:レースコントロールメッセージ]]
+
 ** Rd05 Canadian Grand Prix
 *** 2026 Rd05 CAN FP1
 [[./2026/2026-Rd05-Canadian-Grand-Prix-Practice-1.pdf][FP1:プロット]]
