@@ -24,6 +24,12 @@
 [[./2026/2026-Rd07-Barcelona-Grand-Prix-Practice-2_laptime.csv][FP2:ラップタイムCSV]]
 [[./2026/2026-Rd07-Barcelona-Grand-Prix-Practice-2_rcm.csv][FP2:レースコントロールメッセージ]]
 
+*** 2026 Rd07 BCN FP3
+
+[[./2026/2026-Rd07-Barcelona-Grand-Prix-Practice-3.pdf][FP3:プロット]]
+[[./2026/2026-Rd07-Barcelona-Grand-Prix-Practice-3_laptime.csv][FP3:ラップタイムCSV]]
+[[./2026/2026-Rd07-Barcelona-Grand-Prix-Practice-3_rcm.csv][FP3:レースコントロールメッセージ]]
+
 ** Rd06 Monaco Grand Prix
 
 *** 2026 Rd06 MCO FP1
