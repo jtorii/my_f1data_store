@@ -35,6 +35,14 @@
 [[./2026/2026-Rd08-Austrian-Grand-Prix-Qualifying_laptime.csv][予選:ラップタイムCSV]]
 [[./2026/2026-Rd08-Austrian-Grand-Prix-Qualifying_rcm.csv][予選:レースコントロールメッセージ]]
 
+*** 2026 Rd08 AUT Race
+
+[[./2026/2026-Rd08-Austrian-Grand-Prix-Race.pdf][決勝:プロット]]
+[[./2026/2026-Rd08-Austrian-Grand-Prix-Race_gaptime.csv][決勝:ギャップタイムCSV]]
+[[./2026/2026-Rd08-Austrian-Grand-Prix-Race_laptime.csv][決勝:ラップタイムCSV]]
+[[./2026/2026-Rd08-Austrian-Grand-Prix-Race_rcm.csv][決勝:レースコントロールメッセージ]]
+[[https://youtu.be/pgp9Tv1hIvQ][ギャップグラフアニメーション(Youtube)]]
+
 ** Rd07 Barcelona-Catalunya Grand Prix
 *** 2026 Rd07 BCN FP1
 
