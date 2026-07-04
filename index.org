@@ -11,6 +11,19 @@
 
 * 2026 Season
 
+** Rd09 British Grand Prix
+*** 2026 Rd09 GBR FP1
+
+[[./2026/2026-Rd09-British-Grand-Prix-Practice-1.pdf][FP1:プロット]]
+[[./2026/2026-Rd09-British-Grand-Prix-Practice-1_laptime.csv][FP1:ラップタイムCSV]]
+[[./2026/2026-Rd09-British-Grand-Prix-Practice-1_rcm.csv][FP1:レースコントロールメッセージ]]
+
+*** 2026 Rd09 GBR SQ
+
+[[./2026/2026-Rd09-British-Grand-Prix-Sprint-Qualifying.pdf][SQ:プロット]]
+[[./2026/2026-Rd09-British-Grand-Prix-Sprint-Qualifying_laptime.csv][SQ:ラップタイムCSV]]
+[[./2026/2026-Rd09-British-Grand-Prix-Sprint-Qualifying_rcm.csv][SQ:レースコントロールメッセージ]]
+
 ** Rd08 Austrian Grand Prix
 *** 2026 Rd08 AUT FP1
 
