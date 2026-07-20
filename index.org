@@ -35,14 +35,13 @@
 [[./2026/2026-Rd10-Belgian-Grand-Prix-Qualifying_laptime.csv][予選:ラップタイムCSV]]
 [[./2026/2026-Rd10-Belgian-Grand-Prix-Qualifying_rcm.csv][予選:レースコントロールメッセージ]]
 
-*** 2026 Rd10 BEL Race
+*** 2026 Rd10 BEL RACE
 
 [[./2026/2026-Rd10-Belgian-Grand-Prix-Race.pdf][決勝:プロット]]
 [[./2026/2026-Rd10-Belgian-Grand-Prix-Race_gaptime.csv][決勝:ギャップタイムCSV]]
 [[./2026/2026-Rd10-Belgian-Grand-Prix-Race_laptime.csv][決勝:ラップタイムCSV]]
 [[./2026/2026-Rd10-Belgian-Grand-Prix-Race_rcm.csv][決勝:レースコントロールメッセージ]]
 [[https://youtu.be/BanWlSiJkbE][決勝:ギャップグラフアニメーション(Youtube)]]
-
 
 ** Rd09 British Grand Prix
 *** 2026 Rd09 GBR FP1
