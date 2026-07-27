@@ -34,6 +34,14 @@
 [[./2026/2026-Rd11-Hungarian-Grand-Prix-Qualifying_laptime.csv][予選:ラップタイムCSV]]
 [[./2026/2026-Rd11-Hungarian-Grand-Prix-Qualifying_rcm.csv][予選:レースコントロールメッセージ]]
 
+*** 2026 Rd11 HUN RACE
+
+[[./2026/2026-Rd11-Hungarian-Grand-Prix-Race.pdf][決勝:プロット]]
+[[./2026/2026-Rd11-Hungarian-Grand-Prix-Race_gaptime.csv][決勝:ギャップタイムCSV]]
+[[./2026/2026-Rd11-Hungarian-Grand-Prix-Race_laptime.csv][決勝:ラップタイムCSV]]
+[[./2026/2026-Rd11-Hungarian-Grand-Prix-Race_rcm.csv][決勝:レースコントロールメッセージ]]
+[[https://youtu.be/sK9EZjVEK8U][決勝:ギャップグラフアニメーション(Youtube)]]
+
 ** Rd10 Belgian Grand Prix
 *** 2026 Rd10 BEL FP1
 
