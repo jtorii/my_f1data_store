@@ -36,6 +36,14 @@
 [[./2026/2026-Rd12-Dutch-Grand-Prix-Qualifying_laptime.csv][予選:ラップタイムCSV]]
 [[./2026/2026-Rd12-Dutch-Grand-Prix-Qualifying_rcm.csv][予選:レースコントロールメッセージ]]
 
+*** 2026 Rd12 NLD Race
+
+[[./2026/2026-Rd12-Dutch-Grand-Prix-Race.pdf][決勝:プロット]]
+[[./2026/2026-Rd12-Dutch-Grand-Prix-Race_gaptime.csv][決勝:ギャップタイムCSV]]
+[[./2026/2026-Rd12-Dutch-Grand-Prix-Race_laptime.csv][決勝:ラップタイムCSV]]
+[[./2026/2026-Rd12-Dutch-Grand-Prix-Race_rcm.csv][決勝:レースコントロールメッセージ]]
+[[https://youtu.be/nQY3PQvM9wc][決勝:ギャップグラフアニメーション(Youtube)]]
+
 ** Rd11 Hungarian Grand Prix
 *** 2026 Rd11 HUN FP1
 
