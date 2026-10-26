@@ -11,6 +11,41 @@
 
 * 2026 Season
 
+** Rd18 United States Grand Prix
+
+*** 2026 Rd18 USA FP1
+
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-1.pdf][FP1:プロット]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-1_laptime.csv][FP1:ラップタイムCSV]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-1_rcm.csv][FP1:レースコントロールメッセージ]]
+
+*** 2026 Rd18 USA FP2
+
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-2.pdf][FP2:プロット]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-2_laptime.csv][FP2:ラップタイムCSV]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-2_rcm.csv][FP2:レースコントロールメッセージ]]
+
+*** 2026 Rd18 USA FP3
+
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-3.pdf][FP3:プロット]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-3_laptime.csv][FP3:ラップタイムCSV]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Practice-3_rcm.csv][FP3:レースコントロールメッセージ]]
+
+*** 2026 Rd18 USA QF
+
+[[./2026/2026-Rd18-United-States-Grand-Prix-Qualifying.pdf][予選:プロット]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Qualifying_laptime.csv][予選:ラップタイムCSV]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Qualifying_rcm.csv][予選:レースコントロールメッセージ]]
+
+*** 2026 Rd18 USA Race
+
+[[./2026/2026-Rd18-United-States-Grand-Prix-Race.pdf][決勝:プロット]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Race_gaptime.csv][決勝:ギャップタイムCSV]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Race_laptime.csv][決勝:ラップタイムCSV]]
+[[./2026/2026-Rd18-United-States-Grand-Prix-Race_rcm.csv][決勝:レースコントロールメッセージ]]
+[[https://youtu.be/o4nIVbDZE7M][決勝:ギャップグラフアニメーション(Youtube)]]
+
+
 ** Rd17 Singapore Grand Prix
 *** 2026 Rd17 SGP FP1
 
