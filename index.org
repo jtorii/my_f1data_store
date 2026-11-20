@@ -11,6 +11,13 @@
 
 * 2026 Season
 
+** Rd21 Las Vegas Grand Prix
+*** 2026 Rd21 LAS FP2
+
+[[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-2.pdf][FP2:プロット]]
+[[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-2_laptime.csv][FP2:ラップタイムCSV]]
+[[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-2_rcm.csv][FP2:レースコントロールメッセージ]]
+
 ** Rd20 Sao Paulo Grand Prix
 
 *** 2026 Rd20 BRA FP1
