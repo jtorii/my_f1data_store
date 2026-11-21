@@ -17,6 +17,10 @@
 [[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-2.pdf][FP2:プロット]]
 [[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-2_laptime.csv][FP2:ラップタイムCSV]]
 [[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-2_rcm.csv][FP2:レースコントロールメッセージ]]
+*** 2026 Rd21 LAS FP3
+[[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-3.pdf][FP3:プロット]]
+[[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-3_laptime.csv][FP3:ラップタイムCSV]]
+[[./2026/2026-Rd21-Las-Vegas-Grand-Prix-Practice-3_rcm.csv][FP3:レースコントロールメッセージ]]
 
 ** Rd20 Sao Paulo Grand Prix
 
